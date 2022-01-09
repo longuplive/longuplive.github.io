@@ -21,9 +21,7 @@
   <entry>
     <title>mark down文件语法格式测试</title>
     <url>/2022/01/08/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="这个三级标题"><a href="#这个三级标题" class="headerlink" title="这个三级标题"></a>这个三级标题</h3><span id="more"></span>
-
-<ul>
+    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="这个三级标题"><a href="#这个三级标题" class="headerlink" title="这个三级标题"></a>这个三级标题</h3><ul>
 <li>列表1</li>
 <li>列表2<br>   a 子列表<br>   b 子列表</li>
 <li>列表3</li>
