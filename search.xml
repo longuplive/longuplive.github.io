@@ -32,7 +32,7 @@
 <hr>
 <hr>
 <p><a href="https://youtube.com/">youtube</a></p>
-<p><img src="" alt="youtube"></p>
+<p><img src="1.jpg" alt="youtube"></p>
 <p><em>斜体字</em><br><strong>加粗字</strong></p>
 <p><code>&lt;html&gt;&lt;/html&gt;</code></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">	&lt;head&gt;</span><br><span class="line">		&lt;title&gt;测试代码显示&lt;/title&gt;</span><br><span class="line"> 	&lt;/head&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
